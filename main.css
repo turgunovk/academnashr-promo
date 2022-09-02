@@ -28,6 +28,9 @@ body{
 .logo-link:active{
     opacity: 0.6;
 }
+.logo-link img{
+    display: block;
+}
 .site-header-actions{
     display: flex;
     align-items: center;
